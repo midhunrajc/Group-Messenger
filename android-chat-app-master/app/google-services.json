@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441228165647",
+    "project_id": "android-chat-app-d2795",
+    "storage_bucket": "android-chat-app-d2795.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441228165647:android:8da7d33256da4b5891d97a",
+        "android_client_info": {
+          "package_name": "com.meporio.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSbjyU2vTy3ZfbbeeLG2x9ztMqa1JM8Bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
